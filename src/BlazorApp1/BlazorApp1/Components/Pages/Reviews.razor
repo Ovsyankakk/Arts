@@ -1,0 +1,25 @@
+﻿@page "/Reviews"
+@using Microsoft.EntityFrameworkCore;
+@using BlazorApp1.Models;
+@inject LeemonContext context
+
+<h2>Комментарии:</h2>
+
+@foreach (var Commnets in Comments)
+{
+    <h3>Пользователь: @Comments.UserName </h3>
+    <h3>ID комментария: @Comments.CommentID </h3>
+    <p>Картина: @Comments.ArtworkId</p>
+    <p>Комментарий: @Comments.CommentText</p>
+    <hr />
+}
+
+@code {
+    private List<Comments> Commentss = new List<Comments>();
+    protected override async Task OnInitializedAsync()
+    {
+        Comments = await context.Comments.ToListAsync();
+    }
+
+
+}

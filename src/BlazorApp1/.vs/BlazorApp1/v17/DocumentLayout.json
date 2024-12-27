@@ -1,0 +1,237 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\code\\Arts\\src\\BlazorApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAFBBFAE-7A6C-47FB-BA8D-E71FA4433CFA}|BlazorApp1\\BlazorApp1.csproj|s:\\code\\arts\\src\\blazorapp1\\blazorapp1\\models\\leemoncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAFBBFAE-7A6C-47FB-BA8D-E71FA4433CFA}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\models\\leemoncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAFBBFAE-7A6C-47FB-BA8D-E71FA4433CFA}|BlazorApp1\\BlazorApp1.csproj|s:\\code\\arts\\src\\blazorapp1\\blazorapp1\\models\\purchases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAFBBFAE-7A6C-47FB-BA8D-E71FA4433CFA}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\models\\purchases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAFBBFAE-7A6C-47FB-BA8D-E71FA4433CFA}|BlazorApp1\\BlazorApp1.csproj|s:\\code\\arts\\src\\blazorapp1\\blazorapp1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAFBBFAE-7A6C-47FB-BA8D-E71FA4433CFA}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAFBBFAE-7A6C-47FB-BA8D-E71FA4433CFA}|BlazorApp1\\BlazorApp1.csproj|s:\\code\\arts\\src\\blazorapp1\\blazorapp1\\components\\pages\\movies.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DAFBBFAE-7A6C-47FB-BA8D-E71FA4433CFA}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\components\\pages\\movies.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAFBBFAE-7A6C-47FB-BA8D-E71FA4433CFA}|BlazorApp1\\BlazorApp1.csproj|s:\\code\\arts\\src\\blazorapp1\\blazorapp1\\components\\pages\\reviews.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DAFBBFAE-7A6C-47FB-BA8D-E71FA4433CFA}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\components\\pages\\reviews.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAFBBFAE-7A6C-47FB-BA8D-E71FA4433CFA}|BlazorApp1\\BlazorApp1.csproj|s:\\code\\arts\\src\\blazorapp1\\blazorapp1\\models\\comments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAFBBFAE-7A6C-47FB-BA8D-E71FA4433CFA}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\models\\comments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAFBBFAE-7A6C-47FB-BA8D-E71FA4433CFA}|BlazorApp1\\BlazorApp1.csproj|s:\\code\\arts\\src\\blazorapp1\\blazorapp1\\models\\artworks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAFBBFAE-7A6C-47FB-BA8D-E71FA4433CFA}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\models\\artworks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAFBBFAE-7A6C-47FB-BA8D-E71FA4433CFA}|BlazorApp1\\BlazorApp1.csproj|s:\\code\\arts\\src\\blazorapp1\\blazorapp1\\models\\artists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAFBBFAE-7A6C-47FB-BA8D-E71FA4433CFA}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\models\\artists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAFBBFAE-7A6C-47FB-BA8D-E71FA4433CFA}|BlazorApp1\\BlazorApp1.csproj|s:\\code\\arts\\src\\blazorapp1\\blazorapp1\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DAFBBFAE-7A6C-47FB-BA8D-E71FA4433CFA}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAFBBFAE-7A6C-47FB-BA8D-E71FA4433CFA}|BlazorApp1\\BlazorApp1.csproj|s:\\code\\arts\\src\\blazorapp1\\blazorapp1\\components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DAFBBFAE-7A6C-47FB-BA8D-E71FA4433CFA}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAFBBFAE-7A6C-47FB-BA8D-E71FA4433CFA}|BlazorApp1\\BlazorApp1.csproj|s:\\code\\arts\\src\\blazorapp1\\blazorapp1\\components\\pages\\adduser.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DAFBBFAE-7A6C-47FB-BA8D-E71FA4433CFA}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\components\\pages\\adduser.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAFBBFAE-7A6C-47FB-BA8D-E71FA4433CFA}|BlazorApp1\\BlazorApp1.csproj|s:\\code\\arts\\src\\blazorapp1\\blazorapp1\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DAFBBFAE-7A6C-47FB-BA8D-E71FA4433CFA}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAFBBFAE-7A6C-47FB-BA8D-E71FA4433CFA}|BlazorApp1\\BlazorApp1.csproj|s:\\code\\arts\\src\\blazorapp1\\blazorapp1\\components\\pages\\users.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DAFBBFAE-7A6C-47FB-BA8D-E71FA4433CFA}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\components\\pages\\users.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Artists.cs",
+              "DocumentMoniker": "S:\\code\\Arts\\src\\BlazorApp1\\BlazorApp1\\Models\\Artists.cs",
+              "RelativeDocumentMoniker": "BlazorApp1\\Models\\Artists.cs",
+              "ToolTip": "S:\\code\\Arts\\src\\BlazorApp1\\BlazorApp1\\Models\\Artists.cs",
+              "RelativeToolTip": "BlazorApp1\\Models\\Artists.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T12:19:49.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Comments.cs",
+              "DocumentMoniker": "S:\\code\\Arts\\src\\BlazorApp1\\BlazorApp1\\Models\\Comments.cs",
+              "RelativeDocumentMoniker": "BlazorApp1\\Models\\Comments.cs",
+              "ToolTip": "S:\\code\\Arts\\src\\BlazorApp1\\BlazorApp1\\Models\\Comments.cs",
+              "RelativeToolTip": "BlazorApp1\\Models\\Comments.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA7wAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T12:17:22.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Purchases.cs",
+              "DocumentMoniker": "S:\\code\\Arts\\src\\BlazorApp1\\BlazorApp1\\Models\\Purchases.cs",
+              "RelativeDocumentMoniker": "BlazorApp1\\Models\\Purchases.cs",
+              "ToolTip": "S:\\code\\Arts\\src\\BlazorApp1\\BlazorApp1\\Models\\Purchases.cs",
+              "RelativeToolTip": "BlazorApp1\\Models\\Purchases.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T12:15:16.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Artworks.cs",
+              "DocumentMoniker": "S:\\code\\Arts\\src\\BlazorApp1\\BlazorApp1\\Models\\Artworks.cs",
+              "RelativeDocumentMoniker": "BlazorApp1\\Models\\Artworks.cs",
+              "ToolTip": "S:\\code\\Arts\\src\\BlazorApp1\\BlazorApp1\\Models\\Artworks.cs",
+              "RelativeToolTip": "BlazorApp1\\Models\\Artworks.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA9wB4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T12:12:45.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "S:\\code\\Arts\\src\\BlazorApp1\\BlazorApp1\\Models\\User.cs",
+              "RelativeDocumentMoniker": "BlazorApp1\\Models\\User.cs",
+              "ToolTip": "S:\\code\\Arts\\src\\BlazorApp1\\BlazorApp1\\Models\\User.cs",
+              "RelativeToolTip": "BlazorApp1\\Models\\User.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA9wCAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T06:36:03.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Adduser.razor",
+              "DocumentMoniker": "S:\\code\\Arts\\src\\BlazorApp1\\BlazorApp1\\Components\\Pages\\Adduser.razor",
+              "RelativeDocumentMoniker": "BlazorApp1\\Components\\Pages\\Adduser.razor",
+              "ToolTip": "S:\\code\\Arts\\src\\BlazorApp1\\BlazorApp1\\Components\\Pages\\Adduser.razor",
+              "RelativeToolTip": "BlazorApp1\\Components\\Pages\\Adduser.razor",
+              "ViewState": "AgIAABQAAAAAAAAAAAAmwA4AAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T06:33:00.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Reviews.razor",
+              "DocumentMoniker": "S:\\code\\Arts\\src\\BlazorApp1\\BlazorApp1\\Components\\Pages\\Reviews.razor",
+              "RelativeDocumentMoniker": "BlazorApp1\\Components\\Pages\\Reviews.razor",
+              "ToolTip": "S:\\code\\Arts\\src\\BlazorApp1\\BlazorApp1\\Components\\Pages\\Reviews.razor",
+              "RelativeToolTip": "BlazorApp1\\Components\\Pages\\Reviews.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T10:35:40.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Movies.razor",
+              "DocumentMoniker": "S:\\code\\Arts\\src\\BlazorApp1\\BlazorApp1\\Components\\Pages\\Movies.razor",
+              "RelativeDocumentMoniker": "BlazorApp1\\Components\\Pages\\Movies.razor",
+              "ToolTip": "S:\\code\\Arts\\src\\BlazorApp1\\BlazorApp1\\Components\\Pages\\Movies.razor",
+              "RelativeToolTip": "BlazorApp1\\Components\\Pages\\Movies.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T10:26:31.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LeemonContext.cs",
+              "DocumentMoniker": "S:\\code\\Arts\\src\\BlazorApp1\\BlazorApp1\\Models\\LeemonContext.cs",
+              "RelativeDocumentMoniker": "BlazorApp1\\Models\\LeemonContext.cs",
+              "ToolTip": "S:\\code\\Arts\\src\\BlazorApp1\\BlazorApp1\\Models\\LeemonContext.cs",
+              "RelativeToolTip": "BlazorApp1\\Models\\LeemonContext.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAIwD8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T07:59:02.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainLayout.razor.css",
+              "DocumentMoniker": "S:\\code\\Arts\\src\\BlazorApp1\\BlazorApp1\\Components\\Layout\\MainLayout.razor.css",
+              "RelativeDocumentMoniker": "BlazorApp1\\Components\\Layout\\MainLayout.razor.css",
+              "ToolTip": "S:\\code\\Arts\\src\\BlazorApp1\\BlazorApp1\\Components\\Layout\\MainLayout.razor.css",
+              "RelativeToolTip": "BlazorApp1\\Components\\Layout\\MainLayout.razor.css",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-26T07:18:33.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Home.razor",
+              "DocumentMoniker": "S:\\code\\Arts\\src\\BlazorApp1\\BlazorApp1\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "BlazorApp1\\Components\\Pages\\Home.razor",
+              "ToolTip": "S:\\code\\Arts\\src\\BlazorApp1\\BlazorApp1\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "BlazorApp1\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T10:24:37.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "S:\\code\\Arts\\src\\BlazorApp1\\BlazorApp1\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "BlazorApp1\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "S:\\code\\Arts\\src\\BlazorApp1\\BlazorApp1\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "BlazorApp1\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T10:23:47.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Users.razor",
+              "DocumentMoniker": "S:\\code\\Arts\\src\\BlazorApp1\\BlazorApp1\\Components\\Pages\\Users.razor",
+              "RelativeDocumentMoniker": "BlazorApp1\\Components\\Pages\\Users.razor",
+              "ToolTip": "S:\\code\\Arts\\src\\BlazorApp1\\BlazorApp1\\Components\\Pages\\Users.razor",
+              "RelativeToolTip": "BlazorApp1\\Components\\Pages\\Users.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T07:59:56.252Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

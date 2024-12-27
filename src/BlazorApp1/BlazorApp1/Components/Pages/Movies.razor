@@ -1,0 +1,26 @@
+﻿@page "/Movies"
+@using Microsoft.EntityFrameworkCore;
+@using BlazorApp1.Models;
+@inject LeemonContext context
+
+<h2>Картины:</h2>
+
+@foreach (var Artworks in Artworks)
+{
+    <h3>Картина: @Artworks.ArtistI </h3>
+    <p>ID Картины: @Artworks.ArtworkID</p>
+    <p>Название: @Artworks.Title</p>
+    <p>Описание: @Artworks.Description</p>
+    <p>Цена: @Artworks.Price</p>
+    <hr />
+}
+
+@code {
+    private List<Artworks> Artworks = new List<Artworks>();
+    protected override async Task OnInitializedAsync()
+    {
+        Artworks = await context.Artworks.ToListAsync();
+    }
+
+
+}
